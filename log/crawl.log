@@ -1,0 +1,232 @@
+INFO	2024-06-08 00:48:14,215	0	ebanking	[main]	URL is opened
+INFO	2024-06-08 00:48:16,458	2243	ebanking	[main]	Entered username
+INFO	2024-06-08 00:48:16,607	2392	ebanking	[main]	Entered Password
+INFO	2024-06-08 00:48:17,461	3246	ebanking	[main]	LoginTest is passed
+INFO	2024-06-08 00:48:47,969	0	ebanking	[main]	URL is opened
+INFO	2024-06-08 00:48:48,135	166	ebanking	[main]	Entered username
+INFO	2024-06-08 00:48:48,255	286	ebanking	[main]	Entered Password
+INFO	2024-06-08 00:48:49,356	1387	ebanking	[main]	LoginTest is passed
+INFO	2024-06-10 22:13:28,905	1	ebanking	[main]	URL is opened
+INFO	2024-06-10 22:13:29,169	265	ebanking	[main]	Entered username
+INFO	2024-06-10 22:13:29,372	468	ebanking	[main]	Entered Password
+INFO	2024-06-10 22:15:50,302	1	ebanking	[main]	URL is opened
+INFO	2024-06-10 22:15:50,503	202	ebanking	[main]	Entered username
+INFO	2024-06-10 22:15:50,675	374	ebanking	[main]	Entered Password
+INFO	2024-06-10 22:18:34,701	0	ebanking	[main]	URL is opened
+INFO	2024-06-10 22:18:34,912	211	ebanking	[main]	Entered username
+INFO	2024-06-10 22:18:35,051	350	ebanking	[main]	Entered Password
+INFO	2024-06-10 22:18:35,899	1198	ebanking	[main]	LoginTest is passed
+INFO	2024-06-10 22:19:26,570	0	ebanking	[main]	URL is opened
+INFO	2024-06-10 22:19:26,754	184	ebanking	[main]	Entered username
+INFO	2024-06-10 22:19:26,889	319	ebanking	[main]	Entered Password
+INFO	2024-06-10 22:19:27,722	1152	ebanking	[main]	LoginTest is passed
+INFO	2024-06-10 22:22:51,763	0	ebanking	[main]	URL is opened
+INFO	2024-06-10 22:22:51,945	182	ebanking	[main]	Entered username
+INFO	2024-06-10 22:22:52,068	305	ebanking	[main]	Entered Password
+INFO	2024-06-10 22:23:44,024	0	ebanking	[main]	URL is opened
+INFO	2024-06-10 22:23:44,206	182	ebanking	[main]	Entered username
+INFO	2024-06-10 22:23:44,370	346	ebanking	[main]	Entered Password
+INFO	2024-06-10 22:24:56,830	0	ebanking	[main]	URL is opened
+INFO	2024-06-10 22:24:57,009	179	ebanking	[main]	Entered username
+INFO	2024-06-10 22:24:57,152	322	ebanking	[main]	Entered Password
+INFO	2024-06-10 22:25:50,181	0	ebanking	[main]	URL is opened
+INFO	2024-06-10 22:25:50,344	163	ebanking	[main]	Entered username
+INFO	2024-06-10 22:25:50,452	271	ebanking	[main]	Entered Password
+INFO	2024-06-10 23:41:01,796	1	ebanking	[main]	URL is opened
+INFO	2024-06-10 23:41:01,984	189	ebanking	[main]	Entered username
+INFO	2024-06-10 23:41:02,114	319	ebanking	[main]	Entered Password
+INFO	2024-06-10 23:46:32,563	0	ebanking	[main]	URL is opened
+INFO	2024-06-10 23:46:32,747	184	ebanking	[main]	Entered username
+INFO	2024-06-10 23:46:32,797	234	ebanking	[main]	Entered Password
+INFO	2024-06-10 23:49:29,583	0	ebanking	[main]	URL is opened
+INFO	2024-06-10 23:49:29,756	173	ebanking	[main]	Entered username
+INFO	2024-06-10 23:49:29,922	339	ebanking	[main]	Entered Password
+INFO	2024-06-10 23:49:53,206	0	ebanking	[main]	URL is opened
+INFO	2024-06-10 23:49:53,360	154	ebanking	[main]	Entered username
+INFO	2024-06-10 23:49:53,475	269	ebanking	[main]	Entered Password
+INFO	2024-06-10 23:50:47,905	0	ebanking	[main]	URL is opened
+INFO	2024-06-10 23:50:48,069	164	ebanking	[main]	Entered username
+INFO	2024-06-10 23:50:48,170	265	ebanking	[main]	Entered Password
+INFO	2024-06-10 23:50:49,060	1155	ebanking	[main]	LoginTest is passed
+INFO	2024-06-10 23:51:18,607	0	ebanking	[main]	URL is opened
+INFO	2024-06-10 23:51:18,835	228	ebanking	[main]	Entered username
+INFO	2024-06-10 23:51:18,889	282	ebanking	[main]	Entered Password
+INFO	2024-06-10 23:51:19,940	1333	ebanking	[main]	LoginTest is passed
+INFO	2024-06-10 23:51:40,427	0	ebanking	[main]	URL is opened
+INFO	2024-06-10 23:51:40,845	418	ebanking	[main]	Entered username
+INFO	2024-06-10 23:51:40,968	541	ebanking	[main]	Entered Password
+INFO	2024-06-10 23:51:41,861	1434	ebanking	[main]	LoginTest is passed
+INFO	2024-06-11 00:00:23,199	0	ebanking	[main]	URL is opened
+INFO	2024-06-11 00:00:23,434	235	ebanking	[main]	Entered username
+INFO	2024-06-11 00:00:23,703	504	ebanking	[main]	Entered Password
+INFO	2024-06-11 00:00:24,599	1400	ebanking	[main]	LoginTest is passed
+INFO	2024-06-11 00:00:33,881	10682	ebanking	[main]	URL is opened
+INFO	2024-06-11 00:00:34,114	10915	ebanking	[main]	Entered username
+INFO	2024-06-11 00:00:34,181	10982	ebanking	[main]	Entered Password
+INFO	2024-06-11 00:00:35,240	12041	ebanking	[main]	LoginTest is passed
+INFO	2024-06-11 00:00:41,837	18638	ebanking	[main]	URL is opened
+INFO	2024-06-11 00:00:41,992	18793	ebanking	[main]	Entered username
+INFO	2024-06-11 00:00:42,126	18927	ebanking	[main]	Entered Password
+INFO	2024-06-11 00:00:43,014	19815	ebanking	[main]	LoginTest is passed
+INFO	2024-06-11 20:04:03,617	0	ebanking	[main]	URL is opened
+INFO	2024-06-11 20:04:03,822	205	ebanking	[main]	Entered username
+INFO	2024-06-11 20:04:03,982	365	ebanking	[main]	Entered Password
+INFO	2024-06-11 20:04:04,850	1233	ebanking	[main]	LoginTest is passed
+INFO	2024-06-11 20:31:59,292	0	ebanking	[main]	URL is opened
+INFO	2024-06-11 20:31:59,571	279	ebanking	[main]	Entered username
+INFO	2024-06-11 20:31:59,699	407	ebanking	[main]	Entered Password
+INFO	2024-06-11 20:32:00,564	1272	ebanking	[main]	LoginTest is passed
+INFO	2024-06-11 22:51:32,781	0	ebanking	[main]	URL is opened
+INFO	2024-06-11 22:51:32,977	196	ebanking	[main]	Entered username
+INFO	2024-06-11 22:51:33,098	317	ebanking	[main]	Entered Password
+INFO	2024-06-12 20:27:46,133	0	ebanking	[main]	URL is opened
+INFO	2024-06-12 20:27:46,291	158	ebanking	[main]	Entered username
+INFO	2024-06-12 20:27:46,402	269	ebanking	[main]	Entered Password
+INFO	2024-06-12 20:52:25,631	0	ebanking	[main]	username is provided
+INFO	2024-06-12 20:52:25,749	118	ebanking	[main]	password is provided
+INFO	2024-06-12 20:52:30,049	4418	ebanking	[main]	Login Passed
+INFO	2024-06-12 20:52:35,309	9678	ebanking	[main]	username is provided
+INFO	2024-06-12 20:52:35,397	9766	ebanking	[main]	password is provided
+INFO	2024-06-12 20:52:40,022	14391	ebanking	[main]	username is provided
+INFO	2024-06-12 20:52:40,104	14473	ebanking	[main]	password is provided
+INFO	2024-06-12 20:52:44,745	19114	ebanking	[main]	username is provided
+INFO	2024-06-12 20:52:44,842	19211	ebanking	[main]	password is provided
+INFO	2024-06-12 20:52:49,919	24288	ebanking	[main]	username is provided
+INFO	2024-06-12 20:52:50,002	24371	ebanking	[main]	password is provided
+INFO	2024-06-12 20:52:54,683	29052	ebanking	[main]	username is provided
+INFO	2024-06-12 20:52:54,765	29134	ebanking	[main]	password is provided
+INFO	2024-06-12 20:55:42,718	0	ebanking	[main]	username is provided
+INFO	2024-06-12 20:55:42,839	121	ebanking	[main]	password is provided
+INFO	2024-06-12 20:55:47,100	4382	ebanking	[main]	Login Passed
+INFO	2024-06-12 20:55:52,387	9669	ebanking	[main]	username is provided
+INFO	2024-06-12 20:55:52,480	9762	ebanking	[main]	password is provided
+INFO	2024-06-12 20:55:57,560	14842	ebanking	[main]	username is provided
+INFO	2024-06-12 20:55:57,648	14930	ebanking	[main]	password is provided
+INFO	2024-06-12 20:56:02,247	19529	ebanking	[main]	username is provided
+INFO	2024-06-12 20:56:02,341	19623	ebanking	[main]	password is provided
+INFO	2024-06-12 20:56:06,985	24267	ebanking	[main]	username is provided
+INFO	2024-06-12 20:56:07,072	24354	ebanking	[main]	password is provided
+INFO	2024-06-12 20:56:11,845	29127	ebanking	[main]	username is provided
+INFO	2024-06-12 20:56:11,961	29243	ebanking	[main]	password is provided
+INFO	2024-06-12 21:04:13,204	0	ebanking	[main]	username is provided
+INFO	2024-06-12 21:04:13,317	113	ebanking	[main]	password is provided
+INFO	2024-06-12 21:04:17,594	4390	ebanking	[main]	Login Passed
+INFO	2024-06-12 21:04:22,972	9768	ebanking	[main]	username is provided
+INFO	2024-06-12 21:04:23,111	9907	ebanking	[main]	password is provided
+INFO	2024-06-12 21:04:28,168	14964	ebanking	[main]	username is provided
+INFO	2024-06-12 21:04:28,246	15042	ebanking	[main]	password is provided
+INFO	2024-06-12 21:04:32,883	19679	ebanking	[main]	username is provided
+INFO	2024-06-12 21:04:32,969	19765	ebanking	[main]	password is provided
+INFO	2024-06-12 21:04:38,010	24806	ebanking	[main]	username is provided
+INFO	2024-06-12 21:04:38,095	24891	ebanking	[main]	password is provided
+INFO	2024-06-12 21:04:42,760	29556	ebanking	[main]	username is provided
+INFO	2024-06-12 21:04:42,844	29640	ebanking	[main]	password is provided
+INFO	2024-06-12 21:07:27,100	0	ebanking	[main]	username is provided
+INFO	2024-06-12 21:07:27,222	122	ebanking	[main]	password is provided
+INFO	2024-06-12 21:07:31,481	4381	ebanking	[main]	Login Passed
+INFO	2024-06-12 21:07:36,815	9715	ebanking	[main]	username is provided
+INFO	2024-06-12 21:07:36,945	9845	ebanking	[main]	password is provided
+INFO	2024-06-12 21:07:42,039	14939	ebanking	[main]	username is provided
+INFO	2024-06-12 21:07:42,118	15018	ebanking	[main]	password is provided
+INFO	2024-06-12 21:07:46,774	19674	ebanking	[main]	username is provided
+INFO	2024-06-12 21:07:46,854	19754	ebanking	[main]	password is provided
+INFO	2024-06-12 21:07:51,478	24378	ebanking	[main]	username is provided
+INFO	2024-06-12 21:07:51,560	24460	ebanking	[main]	password is provided
+INFO	2024-06-12 21:07:56,185	29085	ebanking	[main]	username is provided
+INFO	2024-06-12 21:07:56,277	29177	ebanking	[main]	password is provided
+INFO	2024-06-12 21:09:00,909	0	ebanking	[main]	username is provided
+INFO	2024-06-12 21:09:01,039	130	ebanking	[main]	password is provided
+INFO	2024-06-12 21:09:05,342	4433	ebanking	[main]	Login Passed
+INFO	2024-06-12 21:09:10,609	9700	ebanking	[main]	username is provided
+INFO	2024-06-12 21:09:10,702	9793	ebanking	[main]	password is provided
+INFO	2024-06-12 21:09:15,744	14835	ebanking	[main]	username is provided
+INFO	2024-06-12 21:09:15,823	14914	ebanking	[main]	password is provided
+INFO	2024-06-12 21:09:20,454	19545	ebanking	[main]	username is provided
+INFO	2024-06-12 21:09:20,552	19643	ebanking	[main]	password is provided
+INFO	2024-06-12 21:09:25,665	24756	ebanking	[main]	username is provided
+INFO	2024-06-12 21:09:25,755	24846	ebanking	[main]	password is provided
+INFO	2024-06-12 21:09:30,412	29503	ebanking	[main]	username is provided
+INFO	2024-06-12 21:09:30,491	29582	ebanking	[main]	password is provided
+INFO	2024-06-12 21:11:39,119	0	ebanking	[main]	username is provided
+INFO	2024-06-12 21:11:39,224	105	ebanking	[main]	password is provided
+INFO	2024-06-12 21:11:43,505	4386	ebanking	[main]	Login Passed
+INFO	2024-06-12 21:11:48,795	9676	ebanking	[main]	username is provided
+INFO	2024-06-12 21:11:48,875	9756	ebanking	[main]	password is provided
+INFO	2024-06-12 21:11:53,503	14384	ebanking	[main]	username is provided
+INFO	2024-06-12 21:11:53,581	14462	ebanking	[main]	password is provided
+INFO	2024-06-12 21:11:58,193	19074	ebanking	[main]	username is provided
+INFO	2024-06-12 21:11:58,270	19151	ebanking	[main]	password is provided
+INFO	2024-06-12 21:12:02,899	23780	ebanking	[main]	username is provided
+INFO	2024-06-12 21:12:02,976	23857	ebanking	[main]	password is provided
+INFO	2024-06-12 21:12:07,714	28595	ebanking	[main]	username is provided
+INFO	2024-06-12 21:12:07,797	28678	ebanking	[main]	password is provided
+INFO	2024-06-12 21:13:10,761	0	ebanking	[main]	username is provided
+INFO	2024-06-12 21:13:10,904	143	ebanking	[main]	password is provided
+INFO	2024-06-12 21:13:15,204	4443	ebanking	[main]	Login Passed
+INFO	2024-06-12 21:13:20,490	9729	ebanking	[main]	username is provided
+INFO	2024-06-12 21:13:20,580	9819	ebanking	[main]	password is provided
+INFO	2024-06-12 21:13:25,219	14458	ebanking	[main]	username is provided
+INFO	2024-06-12 21:13:25,313	14552	ebanking	[main]	password is provided
+INFO	2024-06-12 21:13:29,960	19199	ebanking	[main]	username is provided
+INFO	2024-06-12 21:13:30,039	19278	ebanking	[main]	password is provided
+INFO	2024-06-12 21:13:34,626	23865	ebanking	[main]	username is provided
+INFO	2024-06-12 21:13:34,710	23949	ebanking	[main]	password is provided
+INFO	2024-06-12 21:13:39,332	28571	ebanking	[main]	username is provided
+INFO	2024-06-12 21:13:39,422	28661	ebanking	[main]	password is provided
+INFO	2024-06-12 23:39:48,721	0	ebanking	[main]	username is entered...
+INFO	2024-06-12 23:39:48,830	109	ebanking	[main]	Password is entered...
+INFO	2024-06-12 23:39:52,699	3978	ebanking	[main]	providing customer details...
+INFO	2024-06-12 23:40:02,505	13784	ebanking	[main]	Validation started
+INFO	2024-06-12 23:40:02,563	13842	ebanking	[main]	test case is passed
+INFO	2024-06-13 21:27:51,284	0	ebanking	[main]	username is entered...
+INFO	2024-06-13 21:27:51,427	143	ebanking	[main]	Password is entered...
+INFO	2024-06-13 21:27:55,675	4391	ebanking	[main]	providing customer details...
+INFO	2024-06-13 21:28:05,634	14350	ebanking	[main]	Validation started
+INFO	2024-06-13 21:28:05,660	14376	ebanking	[main]	test case is passed
+INFO	2024-06-13 23:47:58,834	1	ebanking	[main]	username is provided
+INFO	2024-06-13 23:47:58,972	139	ebanking	[main]	password is provided
+INFO	2024-06-13 23:48:03,216	4383	ebanking	[main]	Login Passed
+INFO	2024-06-13 23:48:08,517	9684	ebanking	[main]	username is provided
+INFO	2024-06-13 23:48:08,649	9816	ebanking	[main]	password is provided
+INFO	2024-06-13 23:48:13,234	14401	ebanking	[main]	username is provided
+INFO	2024-06-13 23:48:13,336	14503	ebanking	[main]	password is provided
+INFO	2024-06-13 23:48:17,933	19100	ebanking	[main]	username is provided
+INFO	2024-06-13 23:48:18,051	19218	ebanking	[main]	password is provided
+INFO	2024-06-13 23:48:23,069	24236	ebanking	[main]	username is provided
+INFO	2024-06-13 23:48:23,160	24327	ebanking	[main]	password is provided
+INFO	2024-06-13 23:48:27,749	28916	ebanking	[main]	username is provided
+INFO	2024-06-13 23:48:27,841	29008	ebanking	[main]	password is provided
+INFO	2024-06-13 23:51:12,252	0	ebanking	[main]	username is entered...
+INFO	2024-06-13 23:51:12,412	160	ebanking	[main]	Password is entered...
+INFO	2024-06-13 23:51:16,676	4424	ebanking	[main]	providing customer details...
+INFO	2024-06-13 23:51:27,436	15184	ebanking	[main]	Validation started
+INFO	2024-06-13 23:51:27,460	15208	ebanking	[main]	test case is passed
+INFO	2024-06-14 19:25:50,444	0	ebanking	[main]	username is entered...
+INFO	2024-06-14 19:25:50,582	138	ebanking	[main]	Password is entered...
+INFO	2024-06-14 19:25:54,443	3999	ebanking	[main]	providing customer details...
+INFO	2024-06-14 19:26:03,527	13083	ebanking	[main]	Validation started
+INFO	2024-06-14 19:30:01,392	0	ebanking	[main]	username is entered...
+INFO	2024-06-14 19:30:01,504	112	ebanking	[main]	Password is entered...
+INFO	2024-06-14 19:30:05,357	3965	ebanking	[main]	providing customer details...
+INFO	2024-06-14 19:30:15,331	13939	ebanking	[main]	Validation started
+INFO	2024-06-14 19:30:15,356	13964	ebanking	[main]	test case is passed
+INFO	2024-06-14 20:25:12,694	1	ebanking	[main]	username is entered...
+INFO	2024-06-14 20:25:12,801	108	ebanking	[main]	Password is entered...
+INFO	2024-06-14 20:25:16,645	3952	ebanking	[main]	providing customer details...
+INFO	2024-06-14 20:25:26,321	13628	ebanking	[main]	Validation started
+INFO	2024-06-14 20:25:26,343	13650	ebanking	[main]	test case is passed
+INFO	2024-06-19 20:49:34,597	0	ebanking	[main]	username is entered...
+INFO	2024-06-19 20:49:34,797	200	ebanking	[main]	Password is entered...
+INFO	2024-06-19 20:49:38,712	4115	ebanking	[main]	providing customer details...
+INFO	2024-06-19 20:49:49,192	14595	ebanking	[main]	Validation started
+INFO	2024-06-19 20:49:49,226	14629	ebanking	[main]	test case is passed
+INFO	2024-06-19 20:53:23,033	0	ebanking	[main]	username is entered...
+INFO	2024-06-19 20:53:23,167	134	ebanking	[main]	Password is entered...
+INFO	2024-06-19 20:53:27,051	4018	ebanking	[main]	providing customer details...
+INFO	2024-06-19 20:53:37,649	14616	ebanking	[main]	Validation started
+INFO	2024-06-19 20:53:37,665	14632	ebanking	[main]	test case is passed
+INFO	2024-06-19 21:50:17,369	0	ebanking	[main]	username is entered...
+INFO	2024-06-19 21:50:17,510	141	ebanking	[main]	Password is entered...
+INFO	2024-06-19 21:50:21,609	4240	ebanking	[main]	providing customer details...
+INFO	2024-06-19 21:50:32,644	15275	ebanking	[main]	Validation started
+INFO	2024-06-19 21:50:32,659	15290	ebanking	[main]	test case is passed

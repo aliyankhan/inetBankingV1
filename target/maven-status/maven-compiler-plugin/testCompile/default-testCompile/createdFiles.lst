@@ -1,0 +1,13 @@
+com\inetbanking\testCases\BaseClass.class
+com\inetbanking\testCases\TC_LoginTest_001.class
+ui\DemoAutomation.class
+com\inetbanking\testCases\TC_LoginDDT_002.class
+com\inetbanking\pageObjects\AddCustomerPage.class
+ui\BasicWebDriverMethods.class
+com\inetbanking\utilities\Reporting.class
+com\inetbanking\utilities\XLUtils.class
+ui\Locators.class
+com\inetbanking\utilities\ReadConfig.class
+com\inetbanking\pageObjects\LoginPAGE.class
+com\inetbanking\testCases\TC_AddCustomerTest_003.class
+ui\LoginTest.class
